@@ -89,4 +89,5 @@ I'm Flutter Developer 🚀<br>Strong problem-solving skills 🪛<br>Working with
 
 ###
  -->
-![snake gif](https://github.com/takhirovs1/takhirovs1/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/takhirovs1/takhirovs1/output/github-snake-dark.svg)
+
